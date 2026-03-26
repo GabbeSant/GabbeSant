@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Estudante de ADS no SENAI que decidiu parar de só “acompanhar a aula” e começar a entender de verdade. Estou focado em construir base forte em lógica e programação (principalmente em C), porque percebi que sem isso qualquer avanço é frágil. Não venho de um nível alto — e justamente por isso estou tratando evolução como prioridade diária. 
+  Não busco só aprender ferramentas, busco desenvolver raciocínio.
 </p>
 
 <p align="left">
