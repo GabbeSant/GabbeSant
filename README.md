@@ -9,9 +9,6 @@
   🦄 Linguagens: HTML || CSS || PHP || C || PYTHON
 </p>
 
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
