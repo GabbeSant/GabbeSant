@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&weight=600&size=25&pause=1000&vCenter=true&multiline=true&width=600&height=80&lines=Hello%2C+I'm+Gabriel+Santoni+;trying+to+make+a+difference+in+the+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&weight=600&size=30&pause=1000&vCenter=true&multiline=true&width=1000&height=100&lines=Hello%2C+I'm+Gabriel+Santoni+;Turning+ideas+into+working+software)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/-@GabbeSant-%23181717?style=flat-square&logo=github)](https://github.com/GabbeSant)
 
@@ -9,15 +9,17 @@
 🎓 ADS Student | 🐍 Python Learner | 🗄️ SQL Enthusiast | 🎨 Artist | 🌌 Cowboy Bebop Fan
 
 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒓𝒆𝒂𝒍 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔, 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝒂𝒏𝒅 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒊𝒏𝒕𝒐 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
-<img src="https://tenor.com/pt-BR/view/sonic-gif-11685426228691631067">
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - Solo Leveling Inspired Life RPG System
-- Learning Python
-- Improving Software Engineering and Database Skills
+- Deepening my Python knowledge
+- Database Modeling and SQL
+- Software Engineering Best Practices
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
