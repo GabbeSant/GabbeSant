@@ -1,25 +1,38 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# 𝙂𝙖𝙗𝙧𝙞𝙚𝙡 𝙎𝙖𝙣𝙩𝙤𝙣𝙞
 
-<p align="left"> 
-  Estudante de ADS no SENAI que decidiu parar de só “acompanhar a aula” e começar a entender de verdade. Estou focado em construir base forte em lógica e programação (principalmente em C), porque percebi que sem isso qualquer avanço é frágil. 
-  Não venho de um nível alto e justamente por isso estou tratando evolução como prioridade diária. 
-  Não busco só aprender ferramentas, busco desenvolver raciocínio.
-</p>
+[![](https://img.shields.io/badge/-@GabbeSant-%23181717?style=flat-square&logo=github)](https://github.com/GabbeSant)
 
-<p align="left">
-  🦄 Linguagens: HTML || CSS || PHP || C || PYTHON
-</p>
+𝑰 ❤️ 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
+:computer: 𝑨 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒐𝒇 𝑨𝒏𝒂́𝒍𝒊𝒔𝒆 𝒆 𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒊𝒎𝒆𝒏𝒕𝒐 𝒅𝒆 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝒃𝒂𝒄𝒌𝒆𝒏𝒅, 𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒔𝒚𝒔𝒕𝒆𝒎 𝒅𝒆𝒔𝒊𝒈𝒏.
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+🎓 ADS Student | 🐍 Python Learner | 🗄️ SQL Enthusiast | 🎨 Artist | 🌌 Cowboy Bebop Fan
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒓𝒆𝒂𝒍 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔, 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝒂𝒏𝒅 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒊𝒏𝒕𝒐 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+- 🎮 Solo Leveling Inspired Life RPG System
+- 📚 Improving Software Engineering and Database Skills
+
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabbeSant&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabbeSant&layout=compact&theme=dracula)
+
+---
+
+> "Transformando aprendizado em projetos e projetos em experiência."
