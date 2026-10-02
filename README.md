@@ -6,16 +6,8 @@
 
 :computer: 𝑨 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒐𝒇 𝑨𝒏𝒂́𝒍𝒊𝒔𝒆 𝒆 𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒊𝒎𝒆𝒏𝒕𝒐 𝒅𝒆 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝒃𝒂𝒄𝒌𝒆𝒏𝒅, 𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒔𝒚𝒔𝒕𝒆𝒎 𝒅𝒆𝒔𝒊𝒈𝒏.
 
-🎓 ADS Student | 🐍 Python Learner | 🗄️ SQL Enthusiast | 🎨 Artist | 🌌 Cowboy Bebop Fan
+🎓 ADS Student | 🐍 Python | ☕ Java | 📱 React | 🗄️ SQL | 🎨 Artist
 
-💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒓𝒆𝒂𝒍 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔, 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝒂𝒏𝒅 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒊𝒏𝒕𝒐 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
-
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-- Solo Leveling Inspired Life RPG System
-- Deepening my Python knowledge
-- Database Modeling and SQL
-- Software Engineering Best Practices
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
